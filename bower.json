@@ -1,0 +1,16 @@
+{
+  "name": "web-mockup-base",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jeffaudio/web-mockup-base",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.3.0",
+  }
+}
